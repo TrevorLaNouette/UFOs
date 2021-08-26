@@ -1,6 +1,6 @@
 # UFOs
 ## Overview of the analysis:
-Using HTML, Javascript and Cascading Style Sheets, I was taked with creating a website that pulls data from a data from a file and organizes it on a table then filers the data by the date input by the user. I was then asked to add additional filter criteria so that the data could be more specifically filtered. I was asked to add city, state, country, and shape to our available filters. 
+Using HTML, Javascript and Cascading Style Sheets, I was taked with creating a website that pulls data from a data from a file and organizes it on a table then filers the data by the date input by the user. I was then asked to add additional filter criteria so that the data could be more specifically filtered. I was asked to add city, state, country, and shape to the available filters. 
 
 ## Results:
 
